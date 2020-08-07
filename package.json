@@ -1,0 +1,19 @@
+{
+  "name": "azuread-qsesaas-jwt",
+  "version": "1.0.0",
+  "description": "A PoC using MSAL to acquire a jwt from Azure AD to gain access to graph to then create a new token with group resolution and send it to Qlik.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goldbergjeffrey/azuread-qsesaas-jwt.git"
+  },
+  "author": "goldbergjeffrey@yahoo.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/goldbergjeffrey/azuread-qsesaas-jwt/issues"
+  },
+  "homepage": "https://github.com/goldbergjeffrey/azuread-qsesaas-jwt#readme"
+}
